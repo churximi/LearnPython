@@ -7,3 +7,4 @@
 - 《数据结构与算法:Python语言描述》
 - 《Data Structures and Algorithms in Python》
 - 《Python核心编程（中文第二版）》
+- 其他
